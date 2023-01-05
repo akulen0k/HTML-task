@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	height: 230px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#content {
+	text-align: center;
+	height: auto;
+	font-size: 16pt;
+	padding-left: 200px;
+	padding-right: 200px; 
+}
+
+#main {
+	text-align: center; 
+	height: 50px;
+	font-size: 18pt;    
+}
+
+#links {
+	padding-top: 10px;
+	height: 30px;
+	background: black;    
+	text-align: center;
+	font-size: 14pt;
+}
+
+#footer {
+	height: 25px;
+	background: black;    
+	text-align: center;
+	font-size: 14pt;
+}
